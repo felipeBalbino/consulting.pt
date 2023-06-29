@@ -8,7 +8,45 @@ jQuery(document).ready(function($) {
 
 	"use strict";
 
+	var getLanguage = function() {
+	// Código para detectar o idioma do usuário
+		var userLang = navigator.language || navigator.userLanguage;
+
+		// Carrega o arquivo JavaScript correspondente ao idioma
+		var langFile = "en.js"; // Padrão para inglês
+
+		if (userLang === "es") {
+			langFile = "es.js";
+		}else if(userLang === "pt-BR"){
+			langFile = "pt-BR.js";
+		}else if(userLang === "pt"){
+			langFile = "pt.js";
+		}else if(userLang === "fr"){
+			langFile = "fr.js";
+		}
+
+		// Carrega o arquivo JavaScript
+		var script = document.createElement("script");
+		script.src = "js/"+langFile;
+		document.head.appendChild(script);
+	};
+	getLanguage();
+
+
+	// Código para substituir as strings traduzidas nos elementos
+	window.onload = function() {
+		var elements = document.getElementsByClassName("translate");
 	
+		for (var i = 0; i < elements.length; i++) {
+			var key = elements[i].getAttribute("data-key");
+		
+			if (key && translations[key]) {
+				elements[i].innerText = translations[key];
+			}
+		}
+	};
+
+
 	var siteMenuClone = function() {
 
 		$('.js-clone-nav').each(function() {
