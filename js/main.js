@@ -4,9 +4,18 @@
  	once: false
  });
 
+
 jQuery(document).ready(function($) {
 
 	"use strict";
+
+	$("#language-selector").change(function() {
+		var langFile = $(this).val();
+		langFile = "js/"+langFile;
+		$.getScript(langFile, function() {
+		  translatePage();
+		});
+	});
 
 	var getLanguage = function() {
 	// Código para detectar o idioma do usuário
@@ -24,27 +33,39 @@ jQuery(document).ready(function($) {
 		}else if(userLang === "fr"){
 			langFile = "fr.js";
 		}
-
-		// Carrega o arquivo JavaScript
-		var script = document.createElement("script");
-		script.src = "js/"+langFile;
-		document.head.appendChild(script);
+		$("#language-selector").val(langFile);
+		langFile = "js/"+langFile;
+		$.getScript(langFile, function() {
+			// Após o carregamento bem-sucedido do arquivo de idioma, execute a tradução
+			translatePage();
+		});
 	};
 	getLanguage();
 
+	function translatePage() {
+		$(".translate").each(function() {
+			var key = $(this).data("key");
 
-	// Código para substituir as strings traduzidas nos elementos
-	window.onload = function() {
-		var elements = document.getElementsByClassName("translate");
-	
-		for (var i = 0; i < elements.length; i++) {
-			var key = elements[i].getAttribute("data-key");
-		
 			if (key && translations[key]) {
-				elements[i].innerText = translations[key];
+				$(this).text(translations[key]);
 			}
-		}
-	};
+		});
+		$(".ph_translate").each(function() {
+			var key = $(this).data("key");
+
+			if (key && translations[key]) {
+				$(this).attr("placeholder",translations[key]);
+			}
+		});
+		$(".sb_translate").each(function() {
+			var key = $(this).data("key");
+
+			if (key && translations[key]) {
+				$(this).val(translations[key]);
+			}
+		});
+	}
+
 
 
 	var siteMenuClone = function() {

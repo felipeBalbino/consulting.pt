@@ -47,11 +47,16 @@
           <div class="col-3">
             <div class="site-logo">
               <a href="index.html" class="font-weight-bold">Consulting</a>
+              <select id="language-selector">
+                <option value="en.js">English</option>
+                <option value="es.js">Español</option>
+                <option value="pt-BR.js">Portugues/BR</option>
+                <option value="pt-PT.js">Portugues/PT</option>
+              </select>
             </div>
           </div>
 
           <div class="col-9  text-right">
-
             <span class="d-inline-block d-lg-block">
               <a href="#" class="text-black site-menu-toggle js-menu-toggle py-5">
                 <span class="icon-menu h3 text-black"></span>
@@ -68,11 +73,8 @@
               </ul>
             </nav>
           </div>
-
-
         </div>
       </div>
-
     </header>
 
 
@@ -80,7 +82,7 @@
       <div class="container">
         <div class="row align-items-center text-left justify-content-center">
           <div class="col-lg-10 ml-auto">
-            <h1 class="text-black mb-4 translate" data-key="home_title"></h1>
+            <h1 class="text-black mb-4 translate" data-key="home_title">We are a consulting agency based in Lisbon, Portugal.</h1>
           </div>
         </div>
       </div>
@@ -103,8 +105,8 @@
             <h5 class="heading-caps text-muted translate" data-key="menu_services">Services</h5>
           </div>
           <div class="col-md-8">
-            <h2 class="font-weight-bold translate" data-key="home_title"></h2>
-            <p class="translate" data-key="home_sub_text"></p>
+            <h2 class="font-weight-bold translate" data-key="home_title">We are a consulting agency based in Lisbon, Portugal.</h2>
+            <p class="translate" data-key="home_sub_text">Welcome to our vibrant and dynamic consulting company, where youth and intelligence meet! As a young and agile consultancy, we bring fresh perspectives and innovative ideas to every project we take on. Our team of brilliant minds is dedicated to providing insightful solutions that drive success and growth. Together, we navigate the ever-evolving business landscape with creativity, intelligence, and a passion for excellence. Join us on this exciting journey as we unlock new possibilities and shape a brighter future together.</p>
           </div>
         </div>
         <div class="row">
@@ -266,49 +268,47 @@
 
   <div class="site-section bg-left-half">
     <div class="container">
-
-
       <div class="row">
         <div class="col-lg-8 mb-5">
           <form action="#" method="post">
             <div class="form-group row">
               <div class="col-md-6 mb-4 mb-lg-0">
-                <input type="text" class="form-control" placeholder="First name">
+                <input type="text" class="form-control ph_translate" data-key="ph_label_first_name" placeholder="First name">
               </div>
               <div class="col-md-6">
-                <input type="text" class="form-control" placeholder="First name">
+                <input type="text" class="form-control ph_translate" data-key="ph_label_last_name"  placeholder="Last name">
               </div>
             </div>
 
             <div class="form-group row">
               <div class="col-md-12">
-                <input type="text" class="form-control" placeholder="Email address">
+                <input type="text" class="form-control ph_translate" data-key="ph_label_email_address" placeholder="Email address">
               </div>
             </div>
 
             <div class="form-group row">
               <div class="col-md-12">
-                <textarea name="" id="" class="form-control" placeholder="Write your message." cols="30"
+                <textarea name="" id="" class="form-control ph_translate" data-key="ph_label_write_your_message" placeholder="Write your message." cols="30"
                   rows="10"></textarea>
               </div>
             </div>
             <div class="form-group row">
               <div class="col-md-6 mr-auto">
-                <input type="submit" class="btn btn-block btn-primary text-white py-3 px-5" value="Send Message">
+                <input type="submit" class="btn btn-block btn-primary text-white py-3 px-5 sb_translate" data-key="sb_label_contact_info" value="Send Message">
               </div>
             </div>
           </form>
         </div>
         <div class="col-lg-4 ml-auto">
           <div class="bg-white p-3 p-md-5">
-            <h3 class="text-black mb-4">Contact Info</h3>
+            <h3 class="text-black mb-4 translate" data-key="label_contact_info">Contact Info</h3>
             <ul class="list-unstyled footer-link">
               <li class="d-block mb-3">
-                <span class="d-block text-black">Address:</span>
-                <span>34 Street Name, City Name Here, United States</span>
+                <span class="d-block text-black translate" data-key="label_contact_address">Address:</span>
+                <span class="translate" data-key="value_contact_address">Rua 5 de outubro 185, Porto, Portugal</span>
               </li>
-              <li class="d-block mb-3"><span class="d-block text-black">Phone:</span><span>+1 242 4942 290</span></li>
-              <li class="d-block mb-3"><span class="d-block text-black">Email:</span><span>info@yourdomain.com</span>
+              <li class="d-block mb-3"><span class="d-block text-black translate" data-key="label_contact_phone">Phone:</span><span class="translate" data-key="value_contact_phone">+351 937193405</span></li>
+              <li class="d-block mb-3"><span class="d-block text-black translate" data-key="label_contact_email">Email:</span><span class="translate" data-key="value_contact_email">info@yourdomain.com</span>
               </li>
             </ul>
           </div>
@@ -326,19 +326,19 @@
       <div class="row">
         <div class="col-md-3">
           <div class="site-logo-footer">
-            <a href="index.html" class="text-white translate" data-key="home_entre_contato">Entre em contato</a>
+            <a href="index.html" class="text-white translate" data-key="name_site">Consultoria</a>
           </div>
         </div>
         <div class="col-md-8 ml-auto">
           <div class="row">
             <div class="col-md-4 ml-auto">
-              <h3 class="footer-heading mb-4 text-uppercase">Contact Info</h3>
+              <h3 class="footer-heading mb-4 text-uppercase translate" data-key="label_contact_info">Contact Info</h3>
               <ul class="list-unstyled links">
                 <li><a href="#" class="translate" data-key="label_contact_country">Portugal</a></li>
-                <li><a href="#" class="translate" data-key="label_contact_adress">Av. Vale de Milhaços 129-133, Seixal, Portugal</a></li>
-                <li><a href="#" class="translate" data-key="label_contact_email">hello@mydomain.com</a></li>
-                <li><a href="#" class="translate" data-key="label_contact_tel">+1 829 2293 382</a></li>
-                <li><a href="https://wa.me/5521982411111">WhatsApp</a></li>
+                <li><a href="#" class="translate" data-key="value_contact_address">Rua 5 de outubro 185, Porto, Portugal</a></li>
+                <li><a href="#" class="translate" data-key="value_contact_email">info@yourdomain.com</a></li>
+                <li><a href="#" class="translate" data-key="value_contact_phone">+351 937193405</a></li>
+                <li><a href="https://wa.me/351937193405">WhatsApp</a></li>
               </ul>
             </div>
             <div class="col-md-4">
