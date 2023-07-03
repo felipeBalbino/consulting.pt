@@ -12,7 +12,7 @@ var translations = {
   "menu_navigation":"Navegação",
   "label_contact_country":"Portugal",
   "value_contact_address":"Rua 5 de outubro 185, Porto, Portugal",
-  "value_contact_email":"hello@mydomain.com",
+  "value_contact_email":"fjbalbino@gmail.com",
   "value_contact_phone":"+351 937193405",
   "label_footer_rights":"Todos os direitos reservados.",
   "label_contact_info":"Contatos",
