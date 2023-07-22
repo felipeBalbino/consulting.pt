@@ -12,7 +12,7 @@ var translations = {
   "menu_navigation": "Navigation",
   "label_contact_country": "Portugal",
   "value_contact_address": "Rua 5 de outubro 185, Porto, Portugal",
-  "value_contact_email": "fjbalbino@gmail.com",
+  "value_contact_email": "contato@fcsconsulting.pt",
   "value_contact_phone": "+351 937193405",
   "label_footer_rights": "All rights reserved.",
   "label_contact_info": "Contacts",

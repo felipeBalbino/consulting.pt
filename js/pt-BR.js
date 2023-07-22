@@ -14,7 +14,7 @@ var translations = {
   "menu_navigation":"Navegação",
   "label_contact_country":"Portugal",
   "value_contact_address":"Rua 5 de outubro 185, Porto, Portugal",
-  "value_contact_email":"fjbalbino@gmail.com",
+  "value_contact_email":"contato@fcsconsulting.pt",
   "value_contact_phone":"+351 937193405",
   "label_footer_rights":"Todos os direitos reservados.",
   "label_contact_info":"Contatos",
@@ -32,6 +32,27 @@ var translations = {
   "label_pt_pt":"PT-PT",
   "label_our_clients_title":"Nossos clientes",
   "label_our_clients_sub_title":"Valorizamos cada parceria que construímos ao longo dos anos",
-  "label_our_clients_text":"Na nossa jornada como consultoria, tivemos o privilégio de trabalhar com uma ampla gama de clientes que representam diversas indústrias e setores. Desde pequenas startups a grandes empresas multinacionais, estamos orgulhosos de ter ajudado a impulsionar o sucesso e o crescimento de nossos parceiros comerciais.",
+  "label_our_clients_text":"Valorizamos cada parceria que construímos ao longo dos anos e o impacto positivo que essas colaborações têm em nossos clientes é a nossa maior recompensa. Na nossa jornada como consultoria, tivemos o privilégio de trabalhar com uma ampla gama de clientes que representam diversas indústrias e setores. Desde pequenas startups, cujas ideias inovadoras nos inspiram, até grandes empresas multinacionais, cuja presença global nos desafia a oferecer soluções de nível internacional, estamos orgulhosos de ter ajudado a impulsionar o sucesso e o crescimento de nossos parceiros comerciais. ",
+  "label_our_clients_text2":"Nossa dedicação em fornecer soluções perspicazes e orientadas para resultados tem sido a chave para estabelecer relacionamentos sólidos e duradouros com nossos clientes. Acreditamos que cada projeto é uma oportunidade de crescimento mútuo, onde compartilhamos conhecimentos e expertise para alcançar os objetivos estabelecidos. Ao priorizar as necessidades específicas de cada cliente, construímos uma reputação baseada em confiança, transparência e excelência. Com cada novo desafio, renovamos nosso compromisso em oferecer o mais alto padrão de qualidade, agregando valor real aos negócios de nossos estimados clientes. Esperamos ansiosamente por novas parcerias e pela oportunidade de trilhar caminhos inovadores rumo ao sucesso em conjunto.",
+
+  "servico_1_title": "Desenvolvimento Java",
+  "servico_1_text": "Nossa equipe altamente qualificada oferece serviços de desenvolvimento em Java para atender às suas necessidades específicas. Do início ao fim, estamos comprometidos em criar soluções robustas e escaláveis que impulsionam sua empresa para o sucesso. Com profundo conhecimento em tecnologia Java, abordamos cada desafio com agilidade e precisão, entregando produtos que superam expectativas.",
+
+  "servico_2_title": "Data Mining (Mineração de Dados)",
+  "servico_2_text": "Explore o poder dos dados com nossa expertise em Data Mining. Nossa equipe especializada utiliza técnicas avançadas para descobrir insights ocultos em grandes conjuntos de dados, revelando oportunidades valiosas para otimizar seus processos e tomar decisões estratégicas fundamentadas. Permita-nos ajudá-lo a extrair o máximo valor dos seus dados.",
+
+  "servico_3_title": "Business Intelligence (BI)",
+  "servico_3_text": "Potencialize sua inteligência empresarial com nossos serviços especializados em BI. Compreendemos que informações precisas e acessíveis são cruciais para o sucesso dos negócios. Utilizando as ferramentas e tecnologias mais avançadas, transformamos dados em dashboards e relatórios interativos, fornecendo-lhe uma visão clara e abrangente do seu desempenho.",
+
+  "servico_4_title": "ETL (Extract, Transform, Load)",
+  "servico_4_text": "Simplifique o processo de integração de dados com nossos serviços ETL. Nossa equipe experiente utiliza metodologias comprovadas para extrair dados de diversas fontes, transformá-los em formatos adequados e carregá-los em seu sistema de destino. Isso garante que seus dados estejam limpos, consistentes e prontos para serem utilizados para análises e insights precisos.",
+
+  "servico_5_title": "OLAP (Processamento Analítico Online)",
+  "servico_5_text": "Aproveite nossa experiência em OLAP para uma análise de dados avançada e eficiente. Com OLAP, você poderá explorar seus dados de maneira interativa, permitindo análises multidimensionais e a rápida obtenção de respostas para suas perguntas mais complexas. Tome decisões informadas e impulsione sua empresa para o próximo nível.",
+
+  "servico_6_title": "Data Warehouse (Armazém de Dados)",
+  "servico_6_text": "Construímos um sólido alicerce para sua estratégia de dados com nossos serviços de Data Warehouse. Ao criar um ambiente centralizado para armazenar e gerenciar seus dados, proporcionamos uma visão abrangente do seu negócio e eliminamos a fragmentação das informações. Aproveite a nossa experiência em design e implementação de Data Warehouses para aprimorar suas operações.",
+
+
 
 };

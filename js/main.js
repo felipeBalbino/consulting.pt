@@ -4,44 +4,54 @@ AOS.init({
 	once: false
 });
 
-$('.nav-link').click(function () {
-	const anchorTxt = $(this).data("anchor");
-	const element = $("#" + anchorTxt);
-	$('html, body').animate({
-		scrollTop: $(element).offset().top
-	}, 500);
-});
-
 
 jQuery(document).ready(function ($) {
 
 	"use strict";
 
+	
+	$('body').on('click', '.nav-link', function (e) {
+		e.preventDefault();
+		$('body').removeClass('offcanvas-menu');
+		$(".js-menu-toggle").removeClass('active');
+		const anchorTxt = $(this).data("anchor");
+		document.getElementById(anchorTxt).scrollIntoView();
+	});
+
 
 	$("#language-selector").change(function () {
 		var langFile = $(this).val();
-		langFile = "js/" + langFile;
-		$.getScript(langFile, function () {
+		var langFileWithJs = "js/" + langFile;
+		$.getScript(langFileWithJs, function () {
 			translatePage();
+			setCookie('langFile',langFile,7);
 		});
 	});
 
 	var getLanguage = function () {
-		// Código para detectar o idioma do usuário
-		var userLang = navigator.language || navigator.userLanguage;
+	
+		var langFileCookie = getCookie('langFile');
+		if (langFileCookie) {
+			langFile = langFileCookie;
+		}else{
 
-		// Carrega o arquivo JavaScript correspondente ao idioma
-		var langFile = "en.js"; // Padrão para inglês
+			// Código para detectar o idioma do usuário
+			var userLang = navigator.language || navigator.userLanguage;
 
-		if (userLang === "es") {
-			langFile = "es.js";
-		} else if (userLang === "pt-BR") {
-			langFile = "pt-BR.js";
-		} else if (userLang === "pt") {
-			langFile = "pt.js";
-		} else if (userLang === "fr") {
-			langFile = "fr.js";
+			// Carrega o arquivo JavaScript correspondente ao idioma
+			var langFile = "en.js"; // Padrão para inglês
+
+			if (userLang === "es") {
+				langFile = "es.js";
+			} else if (userLang === "pt-BR") {
+				langFile = "pt-BR.js";
+			} else if (userLang === "pt") {
+				langFile = "pt.js";
+			} else if (userLang === "fr") {
+				langFile = "fr.js";
+			}
 		}
+
 		$("#language-selector").val(langFile);
 		langFile = "js/" + langFile;
 		$.getScript(langFile, function () {
@@ -75,7 +85,30 @@ jQuery(document).ready(function ($) {
 		});
 	}
 
+	function setCookie(name,value,days) {
+		var expires = "";
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime() + (days*24*60*60*1000));
+			expires = "; expires=" + date.toUTCString();
+		}
+		document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+	}
 
+	function getCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+
+	function eraseCookie(name) {   
+		document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+	}
 
 	var siteMenuClone = function () {
 
