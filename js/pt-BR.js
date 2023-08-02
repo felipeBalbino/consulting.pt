@@ -30,6 +30,7 @@ var translations = {
   "label_es":"Espanhol",
   "label_pt_br":"PT-BR",
   "label_pt_pt":"PT-PT",
+  "label_lng_fr":"Francês",
   "label_our_clients_title":"Nossos clientes",
   "label_our_clients_sub_title":"Valorizamos cada parceria que construímos ao longo dos anos",
   "label_our_clients_text":"Valorizamos cada parceria que construímos ao longo dos anos e o impacto positivo que essas colaborações têm em nossos clientes é a nossa maior recompensa. Na nossa jornada como consultoria, tivemos o privilégio de trabalhar com uma ampla gama de clientes que representam diversas indústrias e setores. Desde pequenas startups, cujas ideias inovadoras nos inspiram, até grandes empresas multinacionais, cuja presença global nos desafia a oferecer soluções de nível internacional, estamos orgulhosos de ter ajudado a impulsionar o sucesso e o crescimento de nossos parceiros comerciais. ",
