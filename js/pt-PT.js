@@ -54,4 +54,12 @@ var translations = {
   "servico_6_title": "Data Warehouse (Armazém de Dados)",
   "servico_6_text": "Construímos um sólido alicerce para a sua estratégia de dados com os nossos serviços de Data Warehouse. Ao criar um ambiente centralizado para armazenar e gerir os seus dados, proporcionamos uma visão abrangente do seu negócio e eliminamos a fragmentação das informações. Aproveite a nossa experiência em design e implementação de Data Warehouses para aprimorar as suas operações.",
 
+  "servico_7_title": "Desenvolvimento .NET",
+"servico_7_text": "Na nossa oferta de desenvolvimento, também abrangemos a plataforma .NET, trazendo soluções personalizadas para satisfazer as suas necessidades específicas. A nossa equipa altamente qualificada é proficiente em aproveitar todo o potencial do ambiente .NET, garantindo o desenvolvimento de aplicações robustas, escaláveis e de elevado desempenho. Desde o design até à implementação, estamos empenhados em entregar produtos que acrescentam valor e impulsionam a sua eficiência operacional.",
+
+"servico_8_title": "BIG DATA",
+"servico_8_text": "Aproveite a nossa experiência em Big Data para extrair o máximo potencial dos seus dados. A nossa equipa especializada está pronta para lidar com conjuntos de dados massivos e complexos, utilizando técnicas avançadas para processamento, análise e interpretação. Descubra padrões, tendências e informações ocultas que podem revolucionar a sua tomada de decisões e impulsionar a sua vantagem competitiva no mercado.",
+
+"servico_9_title": "Gestão de Projetos Ágeis",
+"servico_9_text": "A nossa equipa experiente em gestão de projetos ágeis está pronta para colaborar com o sucesso dos seus empreendimentos. Utilizando abordagens ágeis comprovadas, como Scrum e Kanban, facilitamos a entrega eficiente de projetos complexos. Através de iterações regulares e feedback contínuo, garantimos a adaptação às mudanças e prioridades, resultando na entrega pontual de soluções de alta qualidade que satisfazem as suas necessidades em constante evolução.",
 };

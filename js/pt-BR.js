@@ -54,6 +54,16 @@ var translations = {
   "servico_6_title": "Data Warehouse (Armazém de Dados)",
   "servico_6_text": "Construímos um sólido alicerce para sua estratégia de dados com nossos serviços de Data Warehouse. Ao criar um ambiente centralizado para armazenar e gerenciar seus dados, proporcionamos uma visão abrangente do seu negócio e eliminamos a fragmentação das informações. Aproveite a nossa experiência em design e implementação de Data Warehouses para aprimorar suas operações.",
 
+  "servico_7_title": "Desenvolvimento .NET",
+  "servico_7_text": "Na nossa oferta de desenvolvimento, também abrangemos a plataforma .NET, trazendo soluções personalizadas para atender às suas demandas específicas. Nossa equipe altamente qualificada é proficiente em aproveitar todo o potencial do ambiente .NET, garantindo o desenvolvimento de aplicações robustas, escaláveis e de alto desempenho. Do design à implementação, estamos comprometidos em entregar produtos que agregam valor e impulsionam sua eficiência operacional.",
+
+  "servico_8_title": "BIG DATA",
+  "servico_8_text": "Aproveite nossa expertise em Big Data para extrair o potencial máximo dos seus dados. Nossa equipe especializada está pronta para lidar com conjuntos de dados massivos e complexos, utilizando técnicas avançadas para processamento, análise e interpretação. Descubra padrões, tendências e informações ocultas que podem revolucionar sua tomada de decisões e impulsionar sua vantagem competitiva no mercado.",
+
+  "servico_9_title": "Gestão de Projetos Ágeis",
+  "servico_9_text": "Nossa equipe experiente em gestão de projetos ágeis está pronta para colaborar com o sucesso dos seus empreendimentos. Utilizando abordagens ágeis comprovadas, como Scrum e Kanban, facilitamos a entrega eficiente de projetos complexos. Através de iterações regulares e feedback contínuo, garantimos a adaptação às mudanças e prioridades, resultando na entrega pontual de soluções de alta qualidade que atendem às suas necessidades em constante evolução.",
+
+
 
 
 };

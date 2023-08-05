@@ -53,4 +53,14 @@ var translations = {
 
   "servico_6_title": "Data Warehouse (Entrepôt de données)",
   "servico_6_text": "Nous construisons une base solide pour votre stratégie de données avec nos services de Data Warehouse. En créant un environnement centralisé pour stocker et gérer vos données, nous vous offrons une vision globale de votre entreprise et éliminons la fragmentation des informations. Profitez de notre expertise en conception et mise en œuvre de Data Warehouses pour améliorer vos opérations.",
+
+
+  "servico_7_title": "Développement .NET",
+"servico_7_text": "Dans notre offre de développement, nous couvrons également la plate-forme .NET en proposant des solutions personnalisées pour répondre à vos demandes spécifiques. Notre équipe hautement qualifiée maîtrise pleinement le potentiel de l'environnement .NET, garantissant le développement d'applications robustes, évolutives et performantes. De la conception à la mise en œuvre, nous nous engageons à fournir des produits qui ajoutent de la valeur et renforcent votre efficacité opérationnelle.",
+
+"servico_8_title": "BIG DATA",
+"servico_8_text": "Profitez de notre expertise en Big Data pour exploiter au maximum le potentiel de vos données. Notre équipe spécialisée est prête à traiter des ensembles de données massifs et complexes en utilisant des techniques avancées de traitement, d'analyse et d'interprétation. Découvrez des modèles, des tendances et des informations cachées qui peuvent révolutionner votre processus décisionnel et renforcer votre avantage concurrentiel sur le marché.",
+
+"servico_9_title": "Gestion de Projets Agiles",
+"servico_9_text": "Notre équipe expérimentée en gestion de projets agiles est prête à contribuer au succès de vos entreprises. En utilisant des approches agiles éprouvées telles que Scrum et Kanban, nous facilitons la livraison efficace de projets complexes. Grâce à des itérations régulières et des feedbacks continus, nous assurons une adaptation aux changements et aux priorités, ce qui se traduit par une livraison en temps opportun de solutions de haute qualité répondant à vos besoins en constante évolution."
 };

@@ -53,4 +53,13 @@ var translations = {
 
   "servico_6_title": "Data Warehouse",
   "servico_6_text": "Build a solid foundation for your data strategy with our Data Warehouse services. By creating a centralized environment to store and manage your data, we provide a comprehensive view of your business and eliminate information fragmentation. Benefit from our experience in designing and implementing Data Warehouses to enhance your operations.",
+
+  "servico_7_title": ".NET Development",
+  "servico_7_text": "In our development offering, we also cover the .NET platform, bringing customized solutions to meet your specific demands. Our highly skilled team is proficient in harnessing the full potential of the .NET environment, ensuring the development of robust, scalable, and high-performance applications. From design to implementation, we are committed to delivering products that add value and drive your operational efficiency.",
+  
+  "servico_8_title": "BIG DATA",
+  "servico_8_text": "Harness our Big Data expertise to extract the maximum potential from your data. Our specialized team is ready to handle massive and complex datasets, using advanced techniques for processing, analysis, and interpretation. Discover patterns, trends, and hidden insights that can revolutionize your decision-making and boost your competitive advantage in the market.",
+  
+  "servico_9_title": "Agile Project Management",
+  "servico_9_text": "Our experienced agile project management team is ready to collaborate for the success of your endeavors. Utilizing proven agile approaches such as Scrum and Kanban, we facilitate the efficient delivery of complex projects. Through regular iterations and continuous feedback, we ensure adaptation to changes and priorities, resulting in timely delivery of high-quality solutions that meet your ever-evolving needs."
 };

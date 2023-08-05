@@ -53,4 +53,13 @@ var translations = {
 
   "servico_6_title": "Almacén de Datos (Data Warehouse)",
   "servico_6_text": "Construimos una sólida base para tu estrategia de datos con nuestros servicios de Data Warehouse. Al crear un entorno centralizado para almacenar y gestionar tus datos, proporcionamos una visión integral de tu negocio y eliminamos la fragmentación de la información. Aprovecha nuestra experiencia en diseño e implementación de Data Warehouses para mejorar tus operaciones.",
+
+  "servico_7_title": "Desarrollo .NET",
+  "servico_7_text": "Dentro de nuestra oferta de desarrollo, también abarcamos la plataforma .NET, brindando soluciones personalizadas para satisfacer sus demandas específicas. Nuestro equipo altamente calificado tiene la capacidad de aprovechar todo el potencial del entorno .NET, garantizando el desarrollo de aplicaciones robustas, escalables y de alto rendimiento. Desde el diseño hasta la implementación, estamos comprometidos con entregar productos que agreguen valor e impulsen su eficiencia operativa.",
+  
+  "servico_8_title": "BIG DATA",
+  "servico_8_text": "Aproveche nuestra experiencia en Big Data para extraer el potencial máximo de sus datos. Nuestro equipo especializado está listo para manejar conjuntos de datos masivos y complejos, utilizando técnicas avanzadas para el procesamiento, análisis e interpretación. Descubra patrones, tendencias e información oculta que pueden revolucionar su toma de decisiones e impulsar su ventaja competitiva en el mercado.",
+  
+  "servico_9_title": "Gestión de Proyectos Ágiles",
+  "servico_9_text": "Nuestro experimentado equipo en gestión de proyectos ágiles está listo para colaborar en el éxito de sus emprendimientos. Utilizando enfoques ágiles probados, como Scrum y Kanban, facilitamos la entrega eficiente de proyectos complejos. Mediante iteraciones regulares y retroalimentación continua, aseguramos la adaptación a los cambios y prioridades, lo que resulta en la entrega puntual de soluciones de alta calidad que satisfacen sus necesidades en constante evolución."
 };
