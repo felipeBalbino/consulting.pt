@@ -63,5 +63,21 @@ var translations = {
 "servico_8_text": "Profitez de notre expertise en Big Data pour exploiter au maximum le potentiel de vos données. Notre équipe spécialisée est prête à traiter des ensembles de données massifs et complexes en utilisant des techniques avancées de traitement, d'analyse et d'interprétation. Découvrez des modèles, des tendances et des informations cachées qui peuvent révolutionner votre processus décisionnel et renforcer votre avantage concurrentiel sur le marché.",
 
 "servico_9_title": "Gestion de Projets Agiles",
-"servico_9_text": "Notre équipe expérimentée en gestion de projets agiles est prête à contribuer au succès de vos entreprises. En utilisant des approches agiles éprouvées telles que Scrum et Kanban, nous facilitons la livraison efficace de projets complexes. Grâce à des itérations régulières et des feedbacks continus, nous assurons une adaptation aux changements et aux priorités, ce qui se traduit par une livraison en temps opportun de solutions de haute qualité répondant à vos besoins en constante évolution."
+"servico_9_text": "Notre équipe expérimentée en gestion de projets agiles est prête à contribuer au succès de vos entreprises. En utilisant des approches agiles éprouvées telles que Scrum et Kanban, nous facilitons la livraison efficace de projets complexes. Grâce à des itérations régulières et des feedbacks continus, nous assurons une adaptation aux changements et aux priorités, ce qui se traduit par une livraison en temps opportun de solutions de haute qualité répondant à vos besoins en constante évolution.",
+
+"employer_1_text": "Notre approche est centrée sur le client, ce qui signifie que nous travaillons en étroite collaboration avec vous pour fournir des solutions sur mesure qui stimulent la croissance et l'excellence au sein de votre entreprise.",
+"employer_1_person": "par Felipe Coelho",
+"employer_1_position": "PDG Co-Fondateur",
+
+"employer_2_text": "De la mise en place et l'optimisation des systèmes à la cybersécurité et à la gestion des données, notre équipe est prête à relever les défis les plus complexes que le monde numérique peut présenter.",
+"employer_2_person": "par José Ronaldo",
+"employer_2_position": "PDG Co-Fondateur",
+
+"employer_3_text": "Nous utilisons les technologies les plus récentes et les meilleures pratiques de l'industrie pour nous assurer que vous êtes toujours un pas en avant de la concurrence.",
+"employer_3_person": "par Ana Maria",
+"employer_3_position": "PDG Co-Fondateur",
+
+"employer_4_text": "Notre passion pour la technologie alimente chaque projet que nous entreprenons, et notre engagement est de fournir des résultats de qualité dans les délais impartis.",
+"employer_4_person": "par Ana Carolina",
+"employer_4_position": "PDG Co-Fondateur"
 };

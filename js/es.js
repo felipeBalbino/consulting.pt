@@ -62,5 +62,23 @@ var translations = {
   "servico_8_text": "Aproveche nuestra experiencia en Big Data para extraer el potencial máximo de sus datos. Nuestro equipo especializado está listo para manejar conjuntos de datos masivos y complejos, utilizando técnicas avanzadas para el procesamiento, análisis e interpretación. Descubra patrones, tendencias e información oculta que pueden revolucionar su toma de decisiones e impulsar su ventaja competitiva en el mercado.",
   
   "servico_9_title": "Gestión de Proyectos Ágiles",
-  "servico_9_text": "Nuestro experimentado equipo en gestión de proyectos ágiles está listo para colaborar en el éxito de sus emprendimientos. Utilizando enfoques ágiles probados, como Scrum y Kanban, facilitamos la entrega eficiente de proyectos complejos. Mediante iteraciones regulares y retroalimentación continua, aseguramos la adaptación a los cambios y prioridades, lo que resulta en la entrega puntual de soluciones de alta calidad que satisfacen sus necesidades en constante evolución."
+  "servico_9_text": "Nuestro experimentado equipo en gestión de proyectos ágiles está listo para colaborar en el éxito de sus emprendimientos. Utilizando enfoques ágiles probados, como Scrum y Kanban, facilitamos la entrega eficiente de proyectos complejos. Mediante iteraciones regulares y retroalimentación continua, aseguramos la adaptación a los cambios y prioridades, lo que resulta en la entrega puntual de soluciones de alta calidad que satisfacen sus necesidades en constante evolución.",
+
+  "employer_1_text": "Nuestro enfoque está centrado en el cliente, lo que significa que trabajamos en estrecha colaboración contigo para proporcionar soluciones a medida que impulsen el crecimiento y la excelencia en tu empresa.",
+"employer_1_person": "por Felipe Coelho",
+"employer_1_position": "CEO y Cofundador",
+
+"employer_2_text": "Desde la implementación y optimización de sistemas hasta la seguridad cibernética y la gestión de datos, nuestro equipo está listo para enfrentar los desafíos más complejos que el mundo digital pueda presentar.",
+"employer_2_person": "por José Ronaldo",
+"employer_2_position": "CEO y Cofundador",
+
+"employer_3_text": "Utilizamos las últimas tecnologías y las mejores prácticas del sector para garantizar que estés siempre un paso adelante de la competencia.",
+"employer_3_person": "por Ana Maria",
+"employer_3_position": "CEO y Cofundador",
+
+"employer_4_text": "Nuestra pasión por la tecnología impulsa cada proyecto que asumimos, y nuestro compromiso es entregar resultados de calidad dentro de los plazos acordados.",
+"employer_4_person": "por Ana Carolina",
+"employer_4_position": "CEO y Cofundador"
+
+
 };

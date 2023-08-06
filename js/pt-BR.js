@@ -65,6 +65,20 @@ var translations = {
   "servico_9_text": "Nossa equipe experiente em gestão de projetos ágeis está pronta para colaborar com o sucesso dos seus empreendimentos. Utilizando abordagens ágeis comprovadas, como Scrum e Kanban, facilitamos a entrega eficiente de projetos complexos. Através de iterações regulares e feedback contínuo, garantimos a adaptação às mudanças e prioridades, resultando na entrega pontual de soluções de alta qualidade que atendem às suas necessidades em constante evolução.",
 
 
-
+  "employer_1_text": "Nossa abordagem é focada no cliente, o que significa que trabalhamos em estreita colaboração com você para fornecer soluções sob medida, que impulsionem o crescimento e a excelência em sua empresa.",
+  "employer_1_person": "por Felipe Coelho",
+  "employer_1_position": "CEO Co-Fundador",
+  
+  "employer_2_text": "Desde a implantação e otimização de sistemas até a segurança cibernética e a gestão de dados, nossa equipe está pronta para enfrentar os desafios mais complexos que o mundo digital pode apresentar.",
+  "employer_2_person": "por José Ronaldo",
+  "employer_2_position": "CEO Co-Fundador",
+  
+  "employer_3_text": "Utilizamos as mais recentes tecnologias e as melhores práticas do setor para garantir que você esteja sempre um passo à frente da concorrência.",
+  "employer_3_person": "por Ana Maria",
+  "employer_3_position": "CEO Co-Fundador",
+  
+  "employer_4_text": "Nossa paixão pela tecnologia impulsiona cada projeto que assumimos, e nosso compromisso é entregar resultados de qualidade com prazos pontuais.",
+  "employer_4_person": "por Ana Carolina",
+  "employer_4_position": "CEO Co-Fundador"
 
 };

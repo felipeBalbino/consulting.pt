@@ -62,5 +62,21 @@ var translations = {
   "servico_8_text": "Harness our Big Data expertise to extract the maximum potential from your data. Our specialized team is ready to handle massive and complex datasets, using advanced techniques for processing, analysis, and interpretation. Discover patterns, trends, and hidden insights that can revolutionize your decision-making and boost your competitive advantage in the market.",
   
   "servico_9_title": "Agile Project Management",
-  "servico_9_text": "Our experienced agile project management team is ready to collaborate for the success of your endeavors. Utilizing proven agile approaches such as Scrum and Kanban, we facilitate the efficient delivery of complex projects. Through regular iterations and continuous feedback, we ensure adaptation to changes and priorities, resulting in timely delivery of high-quality solutions that meet your ever-evolving needs."
+  "servico_9_text": "Our experienced agile project management team is ready to collaborate for the success of your endeavors. Utilizing proven agile approaches such as Scrum and Kanban, we facilitate the efficient delivery of complex projects. Through regular iterations and continuous feedback, we ensure adaptation to changes and priorities, resulting in timely delivery of high-quality solutions that meet your ever-evolving needs.",
+
+  "employer_1_text": "Our approach is customer-focused, which means we work closely with you to provide tailored solutions that drive growth and excellence in your company.",
+"employer_1_person": "by Felipe Coelho",
+"employer_1_position": "CEO Co-Founder",
+
+"employer_2_text": "From system implementation and optimization to cybersecurity and data management, our team is ready to tackle the most complex challenges the digital world can present.",
+"employer_2_person": "by José Ronaldo",
+"employer_2_position": "CEO Co-Founder",
+
+"employer_3_text": "We leverage the latest technologies and industry best practices to ensure you stay one step ahead of the competition.",
+"employer_3_person": "by Ana Maria",
+"employer_3_position": "CEO Co-Founder",
+
+"employer_4_text": "Our passion for technology drives every project we take on, and our commitment is to deliver quality results with timely deadlines.",
+"employer_4_person": "by Ana Carolina",
+"employer_4_position": "CEO Co-Founder"
 };
