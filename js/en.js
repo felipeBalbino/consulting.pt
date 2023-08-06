@@ -1,5 +1,6 @@
 var translations = {
   "site_name": "FCS Consulting",
+  "consulting": "Consulting",
   "home_title": "Our clients are the essence of what we do",
   "home_sub_title": "We are a consulting agency based in Lisbon, Portugal.",
   "home_sub_text": "Welcome to our vibrant and dynamic consulting firm, where youth and intelligence converge! As a young and agile consultancy, we bring fresh perspectives and innovative ideas to every project we take on. Our team of brilliant minds is dedicated to providing insightful solutions that drive success and growth. Together, we navigate the ever-changing business landscape with creativity, intelligence, and a passion for excellence. Join us on this exciting journey as we unlock new possibilities and shape a brighter future together.",

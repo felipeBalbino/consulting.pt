@@ -1,5 +1,6 @@
 var translations = {
   "site_name": "FCS Consultoria",
+  "consulting": "Consultoria",
   "home_title": "Os nossos clientes são a essência do que fazemos",
   "home_sub_title": "Somos uma agência de consultoria sediada em Lisboa, Portugal.",
   "home_sub_text": "Bem-vindo à nossa vibrante e dinâmica empresa de consultoria, onde a juventude e a inteligência se encontram! Como uma consultoria jovem e ágil, trazemos perspetivas frescas e ideias inovadoras para cada projeto que assumimos. A nossa equipa de mentes brilhantes está dedicada a fornecer soluções perspicazes que impulsionam o sucesso e o crescimento. Juntos, navegamos pela paisagem empresarial em constante evolução com criatividade, inteligência e uma paixão pela excelência. Junte-se a nós nessa jornada emocionante enquanto desbloqueamos novas possibilidades e moldamos um futuro mais brilhante juntos.",
@@ -58,8 +59,8 @@ var translations = {
 "servico_7_text": "Na nossa oferta de desenvolvimento, também abrangemos a plataforma .NET, trazendo soluções personalizadas para satisfazer as suas necessidades específicas. A nossa equipa altamente qualificada é proficiente em aproveitar todo o potencial do ambiente .NET, garantindo o desenvolvimento de aplicações robustas, escaláveis e de elevado desempenho. Desde o design até à implementação, estamos empenhados em entregar produtos que acrescentam valor e impulsionam a sua eficiência operacional.",
 
 "servico_8_title": "BIG DATA",
-"servico_8_text": "Aproveite a nossa experiência em Big Data para extrair o máximo potencial dos seus dados. A nossa equipa especializada está pronta para lidar com conjuntos de dados massivos e complexos, utilizando técnicas avançadas para processamento, análise e interpretação. Descubra padrões, tendências e informações ocultas que podem revolucionar a sua tomada de decisões e impulsionar a sua vantagem competitiva no mercado.",
+  "servico_8_text": "Aproveite a nossa experiência em Big Data para extrair o máximo potencial dos seus dados. A nossa equipa especializada está pronta para lidar com conjuntos de dados massivos e complexos, utilizando técnicas avançadas para processamento, análise e interpretação. Descubra padrões, tendências e informações ocultas que podem revolucionar a sua tomada de decisões e impulsionar a sua vantagem competitiva no mercado.",
 
-"servico_9_title": "Gestão de Projetos Ágeis",
-"servico_9_text": "A nossa equipa experiente em gestão de projetos ágeis está pronta para colaborar com o sucesso dos seus empreendimentos. Utilizando abordagens ágeis comprovadas, como Scrum e Kanban, facilitamos a entrega eficiente de projetos complexos. Através de iterações regulares e feedback contínuo, garantimos a adaptação às mudanças e prioridades, resultando na entrega pontual de soluções de alta qualidade que satisfazem as suas necessidades em constante evolução.",
+  "servico_9_title": "Gestão de Projetos Ágeis",
+  "servico_9_text": "A nossa equipa experiente em gestão de projetos ágeis está pronta para colaborar com o sucesso dos seus empreendimentos. Utilizando abordagens ágeis comprovadas, como Scrum e Kanban, facilitamos a entrega eficiente de projetos complexos. Através de iterações regulares e feedback contínuo, garantimos a adaptação às mudanças e prioridades, resultando na entrega pontual de soluções de alta qualidade que satisfazem as suas necessidades em constante evolução.",
 };

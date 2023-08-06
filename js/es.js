@@ -1,5 +1,6 @@
 var translations = {
   "site_name": "FCS Consultoría",
+  "consulting": "Consultoría",
   "home_title": "Nuestros clientes son la esencia de lo que hacemos",
   "home_sub_title": "Somos una agencia de consultoría con sede en Lisboa, Portugal.",
   "home_sub_text": "¡Bienvenido a nuestra vibrante y dinámica empresa de consultoría, donde la juventud y la inteligencia se encuentran! Como una consultoría joven y ágil, aportamos perspectivas frescas e ideas innovadoras a cada proyecto que asumimos. Nuestro equipo de mentes brillantes está dedicado a proporcionar soluciones perspicaces que impulsan el éxito y el crecimiento. Juntos, navegamos por el cambiante paisaje empresarial con creatividad, inteligencia y pasión por la excelencia. Únete a nosotros en este emocionante viaje mientras desbloqueamos nuevas posibilidades y moldeamos juntos un futuro más brillante.",

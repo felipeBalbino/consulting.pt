@@ -1,5 +1,6 @@
 var translations = {
   "site_name": "FCS Conseil",
+  "consulting": "Conseil",
   "home_title": "Nos clients sont l'essence de ce que nous faisons",
   "home_sub_title": "Nous sommes une agence de conseil basée à Lisbonne, Portugal.",
   "home_sub_text": "Bienvenue dans notre entreprise de conseil vibrante et dynamique, où jeunesse et intelligence se rencontrent ! En tant que cabinet de conseil jeune et agile, nous apportons des perspectives fraîches et des idées novatrices à chaque projet que nous entreprenons. Notre équipe de brillantes intelligences est dédiée à fournir des solutions perspicaces qui favorisent le succès et la croissance. Ensemble, nous naviguons dans le paysage commercial en constante évolution avec créativité, intelligence et passion pour l'excellence. Rejoignez-nous dans cette aventure passionnante alors que nous débloquons de nouvelles possibilités et façonnons ensemble un avenir plus brillant.",
