@@ -66,7 +66,7 @@ var translations = {
 
 
   "employer_1_text": "A nossa abordagem é focada no cliente, o que significa que trabalhamos em estreita colaboração consigo para fornecer soluções à medida, que impulsionem o crescimento e a excelência na sua empresa.",
-  "employer_1_person": "por Felipe Coelho",
+  "employer_1_person": "por Felipe Balbino",
   "employer_1_position": "CEO e Co-Fundador",
   
   "employer_2_text": "Desde a implementação e otimização de sistemas até à segurança cibernética e à gestão de dados, a nossa equipa está pronta para enfrentar os desafios mais complexos que o mundo digital pode apresentar.",

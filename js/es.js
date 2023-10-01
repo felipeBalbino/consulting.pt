@@ -65,7 +65,7 @@ var translations = {
   "servico_9_text": "Nuestro experimentado equipo en gestión de proyectos ágiles está listo para colaborar en el éxito de sus emprendimientos. Utilizando enfoques ágiles probados, como Scrum y Kanban, facilitamos la entrega eficiente de proyectos complejos. Mediante iteraciones regulares y retroalimentación continua, aseguramos la adaptación a los cambios y prioridades, lo que resulta en la entrega puntual de soluciones de alta calidad que satisfacen sus necesidades en constante evolución.",
 
   "employer_1_text": "Nuestro enfoque está centrado en el cliente, lo que significa que trabajamos en estrecha colaboración contigo para proporcionar soluciones a medida que impulsen el crecimiento y la excelencia en tu empresa.",
-"employer_1_person": "por Felipe Coelho",
+"employer_1_person": "por Felipe Balbino",
 "employer_1_position": "CEO y Cofundador",
 
 "employer_2_text": "Desde la implementación y optimización de sistemas hasta la seguridad cibernética y la gestión de datos, nuestro equipo está listo para enfrentar los desafíos más complejos que el mundo digital pueda presentar.",

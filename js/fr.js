@@ -66,7 +66,7 @@ var translations = {
 "servico_9_text": "Notre équipe expérimentée en gestion de projets agiles est prête à contribuer au succès de vos entreprises. En utilisant des approches agiles éprouvées telles que Scrum et Kanban, nous facilitons la livraison efficace de projets complexes. Grâce à des itérations régulières et des feedbacks continus, nous assurons une adaptation aux changements et aux priorités, ce qui se traduit par une livraison en temps opportun de solutions de haute qualité répondant à vos besoins en constante évolution.",
 
 "employer_1_text": "Notre approche est centrée sur le client, ce qui signifie que nous travaillons en étroite collaboration avec vous pour fournir des solutions sur mesure qui stimulent la croissance et l'excellence au sein de votre entreprise.",
-"employer_1_person": "par Felipe Coelho",
+"employer_1_person": "par Felipe Balbino",
 "employer_1_position": "PDG Co-Fondateur",
 
 "employer_2_text": "De la mise en place et l'optimisation des systèmes à la cybersécurité et à la gestion des données, notre équipe est prête à relever les défis les plus complexes que le monde numérique peut présenter.",

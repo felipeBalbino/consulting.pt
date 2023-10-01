@@ -65,7 +65,7 @@ var translations = {
   "servico_9_text": "Our experienced agile project management team is ready to collaborate for the success of your endeavors. Utilizing proven agile approaches such as Scrum and Kanban, we facilitate the efficient delivery of complex projects. Through regular iterations and continuous feedback, we ensure adaptation to changes and priorities, resulting in timely delivery of high-quality solutions that meet your ever-evolving needs.",
 
   "employer_1_text": "Our approach is customer-focused, which means we work closely with you to provide tailored solutions that drive growth and excellence in your company.",
-"employer_1_person": "by Felipe Coelho",
+"employer_1_person": "by Felipe Balbino",
 "employer_1_position": "CEO Co-Founder",
 
 "employer_2_text": "From system implementation and optimization to cybersecurity and data management, our team is ready to tackle the most complex challenges the digital world can present.",
